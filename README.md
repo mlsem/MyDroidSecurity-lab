@@ -6,10 +6,10 @@ As a Droid Apps developer, I'll start with Android security
 
 # PLAN
 
-Architecture and security 
-App build cycle 
-App components 
-Setup my environment 
+-Architecture and security 
+-App build cycle 
+-App components 
+-Setup my environment 
 
 
 
